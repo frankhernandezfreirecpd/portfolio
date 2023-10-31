@@ -1,2 +1,3 @@
-# portfolio
-my cv profile
+# This is the professional site of Frank Hernandez Freire, Network Engineer and Cloud and DevOps enthusiast
+I'm a telecommunication engineer since 2018, i've worked as a network administrator in datacenters since then. The major area where i've been involved is IP networks, most of the tasks that i've done are instalation, configuration and management of network devices, like switches, routers and firewalls from different vendors like Cisco, Huawei, Juniper and Nokia. I've worked with VMware technologies and solutions mainly applied to cloud services, vCenter, vCloud and NSX are some of them.
+I've also had to install and manage Linux services on different operating systems, some of these services are DNS, proxy and mail.
